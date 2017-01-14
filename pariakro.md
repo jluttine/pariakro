@@ -22,13 +22,16 @@
 - [ ] selkälentsikka pompauttamalla
 - [x] taittunut lehti (eng. folded leaf)
 - [ ] käänteinen sivutähti jalan päällä
+
   <iframe src="https://www.youtube.com/embed/lM49MfstO1Y?start=10&end=17" frameborder="0" allowfullscreen></iframe>
 
-- [ ] lepakko (ks. https://youtu.be/wnrCg1c31po)
+- [ ] lepakko
+
   <iframe src="https://www.youtube.com/embed/wnrCg1c31po?start=2&end=28" frameborder="0" allowfullscreen></iframe>
   <iframe src="https://www.youtube.com/embed/cV5mdp_e00Y?start=50&end=105" frameborder="0" allowfullscreen></iframe>
 
 - [x] lentsikka käsien päällä (ks. https://youtu.be/03xAOMgTRhU)
+
   <iframe src="https://www.youtube.com/embed/03xAOMgTRhU?start=10&end=16" frameborder="0" allowfullscreen></iframe>
 
 ### Lentsikka käsien päällä
