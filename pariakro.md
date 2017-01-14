@@ -51,12 +51,19 @@ Alalentsikka mutta lentäjä roikkuu alamiehen jalkojen välissä pitäen käsil
 
 ### Selkäalalentsikka (eng. back bird)
 
-  - variaatio: lentäjä ottaa käsillä kiinni omista nilkoistaan (eng. wheel)
-  - poistuminen: käsilläseisonnan kautta
+#### Variaatiot
+
+- [x] lentäjä ottaa käsillä kiinni omista nilkoistaan (eng. wheel)
+
+#### Poistumiset
+
+- [x] käsilläseisonnan kautta
 
 ### Käänteinen selkälentsikka (eng. reverse back bird)
 
-  - variaatio: lentäjä ottaa käsillä kiinni omista nilkoistaan (eng. reverse wheel)
+#### Variaatiot
+
+-  lentäjä ottaa käsillä kiinni omista nilkoistaan (eng. reverse wheel)
 
 ### Selkälankku jalkojen päällä (eng. back plank on feet)
 
