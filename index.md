@@ -4,7 +4,7 @@
 
 [Alkulämmittely](lammittely.md)
 
-[Pariakrobatia](pariakro.md)
+[Pariakrobatia](pariakro/index.md)
 
 [Kehonpainoharjoittelu](kehonpaino.md)
 
