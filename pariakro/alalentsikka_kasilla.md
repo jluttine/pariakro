@@ -1,6 +1,6 @@
-### Lentsikka käsien päällä
+# Lentsikka käsien päällä
 
-#### Siirtymiset
+## Siirtymiset
 
 - [x] roikkuva lentsikka
 

@@ -1,17 +1,17 @@
-### Lentsikka jalkojen päällä (eng. bird)
+# Lentsikka jalkojen päällä (eng. bird)
 
-#### Nousut
+## Nousut
 
 - [x] kädet yhdessä
 - [x] lentäjän kädet alamiehen nilkoissa
 - [x] ilman käsiä
 - [x] pienellä vauhdilla
 
-#### Poistumiset
+## Poistumiset
 
 - [ ] poistuminen: selän yli (välivaiheena kynttilä)
 
-#### Siirtymiset
+## Siirtymiset
 
 - [x] valtaistuin
 - [x] kynttilä
