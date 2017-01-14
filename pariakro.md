@@ -30,7 +30,7 @@
   <iframe src="https://www.youtube.com/embed/wnrCg1c31po?start=2&end=28" frameborder="0" allowfullscreen></iframe>
   <iframe src="https://www.youtube.com/embed/cV5mdp_e00Y?start=50&end=105" frameborder="0" allowfullscreen></iframe>
 
-- [x] lentsikka käsien päällä (ks. https://youtu.be/03xAOMgTRhU)
+- [x] lentsikka käsien päällä
 
   <iframe src="https://www.youtube.com/embed/03xAOMgTRhU?start=10&end=16" frameborder="0" allowfullscreen></iframe>
 
@@ -38,7 +38,7 @@
 
 #### Siirtymiset
 
-- [x] roikkuva lentsikka (ks. [video](https://youtu.be/03xAOMgTRhU))
+- [x] roikkuva lentsikka
 
   <iframe src="https://www.youtube.com/embed/03xAOMgTRhU?start=16&end=22" frameborder="0" allowfullscreen></iframe>
 
