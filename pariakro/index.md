@@ -4,11 +4,11 @@
 
 ### Lentsikka
 
-- [Lentsikka jalkojen päällä](lentsikka.md)
+- [Lentsikka jalkojen päällä](lentsikka_jaloilla.md)
 
 - [Lentsikka käsien päällä](lentsikka_kasilla.md)
 
-- [Roikkuva lentsikka](lentsikka_roikkuva.md)
+- [Roikkuva lentsikka](lentsikka_jaloilla_roikkuva.md)
 
 ### Selkälentsikka
 
@@ -38,11 +38,11 @@
 
 ### Olkaseisonta
 
-- [Olkaseisonta käsillä](olkaseisonta_käsillä.md)
+- [Olkaseisonta käsien päällä](olkaseisonta_käsillä.md)
 
-- [Olkaseisonta jaloilla](olkaseisonta_jaloilla.md)
+- [Olkaseisonta jalkojen päällä](olkaseisonta_jaloilla.md)
 
-- [Käänteinen olkaseisonta jaloilla](olkaseisonta_jaloilla_kaanteinen.md)
+- [Käänteinen olkaseisonta jalkojen päällä](olkaseisonta_jaloilla_kaanteinen.md)
 
 ### Kyljellään
 
@@ -73,8 +73,6 @@
 - [Käsilläseisonta käsien päällä](kasillaseisonta_kasilla.md)
 
 - [Käänteinen käsilläseisonta käsien päällä](kasillaseisonta_kasilla_kaanteinen.md)
-
-- [Käsilläseisonta reisien päällä](kasillaseisonta_reisilla.md)
 
 ### Käsilläistunta
 
@@ -142,72 +140,30 @@
 
 * Roottori: lentsikka jalat ristissä vasen edessä - oikea jalka irti, lentäjä pyörähtää oikea jalka samaan paikkaan, molemmat kädet irti kun lentäjä käy väärinpäin lentsikassa - kädet kiinni, vasen jalka irti ja vaihtaa asentoa – alusta
 
-## Base: seisten
+## Alamies seisten
 
-* Krusifiksi kasvot samaan suuntaan, nousu reisien päältä takaa, pois hylkeen kautta
+### Lentsikka
 
-* Käsien päällä seisominen alamies seisoo kädet rinnalla
+* Lentsikka hartialla
 
-* Reisiseisonta kasvotusten (eng. thigh stand facing in)
+* Ylälentsikka
 
-  - variaatio: molemmat kädet yhdessä
-  - variaatio: yksi käsi kiinni (ristikkäinen tai saman puolen)
-  - nousu: astuen
-  - nousu: hypäten käsivarret yhdessä
+  - poistuminen: lasku maahan
+  - siirtyminen: sylissä. pudotus pienellä temmolla
 
-* Reisiseisonta perätysten (eng. thigh stand facing out)
+### Selkälentsikka
 
-  - kuvaus: alamiehen kädet lentäjän lantiolla/reisillä (vastapaino)
-  - nousu: astuen
-  - nousu: vauhdilla hypäten (käännös hypätessä)
-  - siirtyminen: hartiaistunta
-  - siirtyminen: tolppa (ks. https://youtu.be/4ZdH5tkE83w)
-  - siirtyminen: käsilläseisonta polvien päällä (ks. https://youtu.be/n9A256MgJtI)
+* Ylälentsikka selällään
 
-* Lippu
+  * (Käänteinen?) lankku
 
-  - nousu: kädet kiinni
-  - nousu: ilman käsiä (huom! alamies tarpeeksi alas)
-  - variaatio: yhdellä alamiehen jalalla (kun jalat harallaan)
-  - siirtyminen: tolppa (ks. https://youtu.be/a4MKJCETe1w)
-  - siirtyminen: käsilläseisonta polvien päällä (ks. https://youtu.be/nXucAYNXvMw)
-  - siirtyminen: sivutähti (ks. https://youtu.be/2rHxqdwVWkw)
+    - siirtyminen: olkaseisonta hartioilla (ks. https://youtu.be/H7sWdnofGMI)
 
-* Sivutähti
+  * Ylälankku
 
-  - kuvaus: lentäjä kyljellään alamiehen yllä, lentäjä alamiehen yhden käden varassa, tuki lantiossa, lentäjän toinen käsi ehkä alamiehen tukikäden hartialla
+    - nousu edestä nostaen
 
-* Vaaka/arabeski polvella (eng. arabesk on knees)
-
-  - kuvaus: alamies jalat harallaan ja ottaa vastapainoksi lentäjän reidestä kiinni. lentäjän tukijalka on alamiehen puoleinen jalka.
-  - nousu: astu sivusta toinen jalka toiselle reidelle ja sitten toinen toiselle reidelle
-  - siirtyminen: haaraistunta hartialla (ks. https://youtu.be/GbkDUnDSO7s)
-
-* (Käänteinen?) lankku
-
-  - siirtyminen: olkaseisonta hartioilla (ks. https://youtu.be/H7sWdnofGMI)
-
-* Olkaseisonta hartioilla (eng. shoulder to shoulder)
-
-  - nousu: temmolla edestä nostaen ja kipaten yli taakse (ks. https://youtu.be/H7sWdnofGMI)
-
-* Istunta hartioilla
-
-  - nousu: alamiehen reiden kautta astuen
-  - nousu: edestä hypäten ja nostaen (kädet lantion vieressä)
-  - nousu: alamies kyykyssä, kämmenet päällekkäin, lentäjä astuu yhdellä jalalla siihen ja temmolla nosto ja puolipyörähdys hartioille istumaan
-  - poistuminen: käsilläseisonnan kautta (alamies pitää tukevasti lentäjän suorista vaakatasossa olevista jaloista kiinni)
-  - poistuminen: kuperkeikalla ???
-  - siirtyminen: tolppa
-  - siirtyminen: reisiseisonta
-
-* Istunta yhdellä hartialla
-
-  - nousu: alamies kyykyssä, lentäjä hyppää sivusta, käsillä tukea päästä ja olkapäästä
-  - nousu: alamies kyykyssä, alamiehen toisen puolen käsi ja lentäjän alamiehen rintaman puoleinen käsi yhdessä ja reiden kautta astuen
-  - siirtyminen: syliin
-  - poistuminen: vartalo niskan takaa, pää saman puolen kainaloon ja sieltä kiepsahduksella pois, alamies tukee käsillä
-  - poistuminen: laskeutuminen syliin ja jalka ojennettuna kauniisti maahan
+### Seisonta
 
 * Seisonta hartioilla eli tolppa (eng. two high)
 
@@ -229,8 +185,6 @@
   - siirtyminen: käsien varassa istunta (eng. tuck sit) (ks. https://youtu.be/oqOOipqpmXk)
   - siirtyminen: käänteinen lankku (ks. https://youtu.be/VYbU4tbqwko)
 
-* Sylissä
-
 * Käsien päällä seisonta
 
   - nousu: alamiehen käsi omalla reidellä, lentäjä astuu siihen, toinen askel kädelle rinnalla, kääntyminen ja nosto
@@ -238,15 +192,78 @@
   - variaatio: alamiehen kädet rinnalla
   - variaatio: alamiehen kädet suorana
 
-* Ylälankku
+* Lippu
 
-  - nousu edestä nostaen
+  - nousu: kädet kiinni
+  - nousu: ilman käsiä (huom! alamies tarpeeksi alas)
+  - variaatio: yhdellä alamiehen jalalla (kun jalat harallaan)
+  - siirtyminen: tolppa (ks. https://youtu.be/a4MKJCETe1w)
+  - siirtyminen: käsilläseisonta polvien päällä (ks. https://youtu.be/nXucAYNXvMw)
+  - siirtyminen: sivutähti (ks. https://youtu.be/2rHxqdwVWkw)
+
+  * Reisiseisonta kasvotusten (eng. thigh stand facing in)
+
+    - variaatio: molemmat kädet yhdessä
+    - variaatio: yksi käsi kiinni (ristikkäinen tai saman puolen)
+    - nousu: astuen
+    - nousu: hypäten käsivarret yhdessä
+
+  * Reisiseisonta perätysten (eng. thigh stand facing out)
+
+    - kuvaus: alamiehen kädet lentäjän lantiolla/reisillä (vastapaino)
+    - nousu: astuen
+    - nousu: vauhdilla hypäten (käännös hypätessä)
+    - siirtyminen: hartiaistunta
+    - siirtyminen: tolppa (ks. https://youtu.be/4ZdH5tkE83w)
+    - siirtyminen: käsilläseisonta polvien päällä (ks. https://youtu.be/n9A256MgJtI)
+
+* Vaaka/arabeski polvella (eng. arabesk on knees)
+
+  - kuvaus: alamies jalat harallaan ja ottaa vastapainoksi lentäjän reidestä kiinni. lentäjän tukijalka on alamiehen puoleinen jalka.
+  - nousu: astu sivusta toinen jalka toiselle reidelle ja sitten toinen toiselle reidelle
+  - siirtyminen: haaraistunta hartialla (ks. https://youtu.be/GbkDUnDSO7s)
+
+### Käsilläseisonta
+
+- [Käsilläseisonta reisien päällä](kasillaseisonta_reisilla.md)
+
+### Kyljellään
+
+* Sivutähti
+
+  - kuvaus: lentäjä kyljellään alamiehen yllä, lentäjä alamiehen yhden käden varassa, tuki lantiossa, lentäjän toinen käsi ehkä alamiehen tukikäden hartialla
+
+### Olkaseisonta
+
+* Olkaseisonta hartioilla (eng. shoulder to shoulder)
+
+  - nousu: temmolla edestä nostaen ja kipaten yli taakse (ks. https://youtu.be/H7sWdnofGMI)
 
 * Ylösalaisin hartioiden varassa alamiehen reisillä
 
-* Ylälaatikko (lentäjän kädet alamiehen harteilla ja jalat 90 asteen kulmassa. ylämiehen kädet lentäjän polvien yläpuolelta)
+### Istunta
 
-  - poistuminen syliin jalat harallaan (-> pyöräytys hartialle, jalan kautta alas ???)
+* Istunta hartioilla
+
+  - nousu: alamiehen reiden kautta astuen
+  - nousu: edestä hypäten ja nostaen (kädet lantion vieressä)
+  - nousu: alamies kyykyssä, kämmenet päällekkäin, lentäjä astuu yhdellä jalalla siihen ja temmolla nosto ja puolipyörähdys hartioille istumaan
+  - poistuminen: käsilläseisonnan kautta (alamies pitää tukevasti lentäjän suorista vaakatasossa olevista jaloista kiinni)
+  - poistuminen: kuperkeikalla ???
+  - siirtyminen: tolppa
+  - siirtyminen: reisiseisonta
+
+* Istunta yhdellä hartialla
+
+  - nousu: alamies kyykyssä, lentäjä hyppää sivusta, käsillä tukea päästä ja olkapäästä
+  - nousu: alamies kyykyssä, alamiehen toisen puolen käsi ja lentäjän alamiehen rintaman puoleinen käsi yhdessä ja reiden kautta astuen
+  - siirtyminen: syliin
+  - poistuminen: vartalo niskan takaa, pää saman puolen kainaloon ja sieltä kiepsahduksella pois, alamies tukee käsillä
+  - poistuminen: laskeutuminen syliin ja jalka ojennettuna kauniisti maahan
+
+### Kainaloriipunta
+
+* Krusifiksi kasvot samaan suuntaan, nousu reisien päältä takaa, pois hylkeen kautta
 
 * Krusifiksi
 
@@ -258,14 +275,13 @@
 
   - kuvaus: krusifiksi toisinpäin, lentäjä omista jaloista kiinni haarat levällään
 
-* Lentsikka hartialla
+### Muut
 
-* Ylälentsikka
+* Sylissä
 
-  - poistuminen: lasku maahan
-  - siirtyminen: sylissä. pudotus pienellä temmolla
+* Ylälaatikko (lentäjän kädet alamiehen harteilla ja jalat 90 asteen kulmassa. ylämiehen kädet lentäjän polvien yläpuolelta)
 
-* Ylälentsikka selällään
+  - poistuminen syliin jalat harallaan (-> pyöräytys hartialle, jalan kautta alas ???)
 
 * Kärrynpyörä kädet yhdessä alamiehen sylin kautta
 
