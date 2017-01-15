@@ -4,276 +4,130 @@
 
 ### Lentsikka
 
-- [Lentsikka jalkojen päällä](alamies_selallaan/lentsikka_jaloilla.md)
-
-- [Lentsikka käsien päällä](alamies_selallaan/lentsikka_kasilla.md)
-
-- [Roikkuva lentsikka](alamies_selallaan/lentsikka_jaloilla_roikkuva.md)
+- [Lentsikka jalkojen päällä](selallaan/lentsikka_jaloilla.md)
+- [Lentsikka käsien päällä](selallaan/lentsikka_kasilla.md)
+- [Roikkuva lentsikka](selallaan/lentsikka_jaloilla_roikkuva.md)
 
 ### Selkälentsikka
 
-- [Selkälentsikka jalkojen päällä](alamies_selallaan/selkalentsikka_jaloilla.md)
-
-- [Käänteinen selkälentsikka jalkojen päällä](alamies_selallaan/selkalentsikka_jaloilla_kaanteinen.md)
-
-- [Roikkuva selkälentsikka](alamies_selallaan/selkalentsikka_kasilla_kaanteinen.md)
-
-- [Selkälentsikka käsien päällä](alamies_selallaan/selkalentsikka_kasilla.md)
-
-- [Käänteinen selkälentsikka käsien päällä](alamies_selallaan/selkalentsikka_kasilla_kaanteinen.md)
+- [Selkälentsikka jalkojen päällä](selallaan/selkalentsikka_jaloilla.md)
+- [Käänteinen selkälentsikka jalkojen päällä](selallaan/selkalentsikka_jaloilla_kaanteinen.md)
+- [Roikkuva selkälentsikka](selallaan/selkalentsikka_kasilla_kaanteinen.md)
+- [Selkälentsikka käsien päällä](selallaan/selkalentsikka_kasilla.md)
+- [Käänteinen selkälentsikka käsien päällä](selallaan/selkalentsikka_kasilla_kaanteinen.md)
 
 ### Seisonta
 
-- [Laatikko](alamies_selallaan/laatikko.md)
-
-- [Käsien päällä seisonta](alamies_selallaan/seisonta_kasilla.md)
-
-- [Käänteinen käsien päällä seisonta](alamies_selallaan/seisonta_kasilla_kaanteinen.md)
-
-- [Seisonta säärien päällä](alamies_selallaan/seisonta_saarilla.md)
-
-- [Seisonta jalkojen päällä](alamies_selallaan/seisonta_jaloilla.md)
-
-- [Käänteinen seisonta jalkojen päällä](alamies_selallaan/seisonta_jaloilla_kaanteinen.md)
+- [Laatikko](selallaan/laatikko.md)
+- [Käsien päällä seisonta](selallaan/seisonta_kasilla.md)
+- [Käänteinen käsien päällä seisonta](selallaan/seisonta_kasilla_kaanteinen.md)
+- [Seisonta säärien päällä](selallaan/seisonta_saarilla.md)
+- [Seisonta jalkojen päällä](selallaan/seisonta_jaloilla.md)
+- [Käänteinen seisonta jalkojen päällä](selallaan/seisonta_jaloilla_kaanteinen.md)
 
 ### Olkaseisonta
 
-- [Olkaseisonta käsien päällä](alamies_selallaan/olkaseisonta_käsillä.md)
-
-- [Olkaseisonta jalkojen päällä](alamies_selallaan/olkaseisonta_jaloilla.md)
-
-- [Käänteinen olkaseisonta jalkojen päällä](alamies_selallaan/olkaseisonta_jaloilla_kaanteinen.md)
+- [Olkaseisonta käsien päällä](selallaan/olkaseisonta_käsillä.md)
+- [Olkaseisonta jalkojen päällä](selallaan/olkaseisonta_jaloilla.md)
+- [Käänteinen olkaseisonta jalkojen päällä](selallaan/olkaseisonta_jaloilla_kaanteinen.md)
 
 ### Kyljellään
 
-- [Vishnun sohva](alamies_selallaan/vishnun_sohva.md)
-
-- [Käänteinen Vishnun sohva](alamies_selallaan/vishnun_sohva_kaanteinen.md)
-
-- [Käänteinen sivutähti](alamies_selallaan/sivutahti_kaanteinen.md)
+- [Vishnun sohva](selallaan/vishnun_sohva.md)
+- [Käänteinen Vishnun sohva](selallaan/vishnun_sohva_kaanteinen.md)
+- [Käänteinen sivutähti](selallaan/sivutahti_kaanteinen.md)
 
 ### Istunta
 
-- [Valtaistuin](alamies_selallaan/valtaistuin.md)
-
-- [Käänteinen valtaistuin](alamies_selallaan/valtaistuin_kaanteinen.md)
+- [Valtaistuin](selallaan/valtaistuin.md)
+- [Käänteinen valtaistuin](selallaan/valtaistuin_kaanteinen.md)
 
 ### Polviseisonta
 
-- [Polviseisonta käsien päällä](alamies_selallaan/polviseisonta_kasilla.md)
-
-- [Käänteinen polviseisonta käsien päällä](alamies_selallaan/polviseisonta_kasilla_kaanteinen.md)
-
-- [Polviseisonta jalkojen päällä](alamies_selallaan/polviseisonta_jaloilla.md)
-
-- [Käänteinen polviseisonta jalkojen päällä](alamies_selallaan/polviseisonta_jaloilla_kaanteinen.md)
+- [Polviseisonta käsien päällä](selallaan/polviseisonta_kasilla.md)
+- [Käänteinen polviseisonta käsien päällä](selallaan/polviseisonta_kasilla_kaanteinen.md)
+- [Polviseisonta jalkojen päällä](selallaan/polviseisonta_jaloilla.md)
+- [Käänteinen polviseisonta jalkojen päällä](selallaan/polviseisonta_jaloilla_kaanteinen.md)
 
 ### Käsilläseisonta
 
-- [Käsilläseisonta käsien päällä](alamies_selallaan/kasillaseisonta_kasilla.md)
-
-- [Käänteinen käsilläseisonta käsien päällä](alamies_selallaan/kasillaseisonta_kasilla_kaanteinen.md)
+- [Käsilläseisonta käsien päällä](selallaan/kasillaseisonta_kasilla.md)
+- [Käänteinen käsilläseisonta käsien päällä](selallaan/kasillaseisonta_kasilla_kaanteinen.md)
 
 ### Käsilläistunta
 
-- [Käsilläistunta käsien päällä](alamies_selallaan/kasillaistunta_kasilla.md)
-
-- [Käänteinen käsilläistunta käsien päällä](alamies_selallaan/kasillaistunta_kasilla.md)
-
-- [Käsilläistunta jalkojen päällä](alamies_selallaan/kasillaistunta_kasilla.md)
-
-- [Käänteinen käsilläistunta jalkojen päällä](alamies_selallaan/kasillaistunta_kasilla.md)
+- [Käsilläistunta käsien päällä](selallaan/kasillaistunta_kasilla.md)
+- [Käänteinen käsilläistunta käsien päällä](selallaan/kasillaistunta_kasilla.md)
+- [Käsilläistunta jalkojen päällä](selallaan/kasillaistunta_kasilla.md)
+- [Käänteinen käsilläistunta jalkojen päällä](selallaan/kasillaistunta_kasilla.md)
 
 ### Lantioriipunta
 
-- [Taittunut lehti](alamies_selallaan/taittunut_lehti.md)
-
-- [Lepakko](alamies_selallaan/lepakko.md)
+- [Taittunut lehti](selallaan/taittunut_lehti.md)
+- [Lepakko](selallaan/lepakko.md)
 
 ### Muut
 
-- [Valas](alamies_selallaan/valas.md)
+- [Valas](selallaan/valas.md)
 
 ### Liikkeet
 
-* Kärrynpyörä alamiehen jalkojen varassa
+- [Kärrynpyörä jalkojen varassa](selallaan/karrynpyora_jaloilla.md)
+- [Kiinalainen valssi](selallaan/kiinalainen_valssi.md)
+- [Back orbit](selallaan/back_orbit.md)
+- [Full moon](selallaan/full_moon.md)
+- [Little dipper](selallaan/little_dipper.md)
+- [Satellite spin](selallaan/satellite_spin.md)
+- [Uiva merenneito](selallaan/uiva_merenneito.md)
+- [Roottori](selallaan/roottori.md)
 
-* (en valssi
-
-  - kuvaus: käsien päällä seisonnassa alamies pyörähtää vatsan kautta ympäri (ks. https://youtu.be/aKj-vG_KRFk)
-
-* Back orbit (ks. https://youtu.be/KH12OiZhrUc)
-
-  1. käänteinen olkaseisonta jalkojen päällä
-  2. käänteinen lankku jalkojen päällä
-  3. polviseisonta käsien päällä
-  4. toista
-
-* Full moon (ks. https://youtu.be/STkGExV0tWQ)
-
-  1. käänteinen olkaseisonta jalkojen päällä
-  2. polviseisonta käsien päällä
-  3. toista
-
-* Little dipper (ks. https://youtu.be/sXT5haD49Yc)
-
-  1. käänteinen olkaseisonta jalkojen päällä
-  2. valtaistuin
-  3. käänteinen lankku jalkojen päällä
-  4. toista
-
-* Satellite spin (ks. https://youtu.be/rYdQsMmJqTE)
-
-  1. selkälankku jalkojen päällä
-  2. kylkilentsikka yhden jalan päällä
-  3. pyörähdys
-  4. toista
-
-* Uiva merenneito (ks. https://youtu.be/lM49MfstO1Y)
-
-  1. lentsikka jalkojen päällä
-  2. käänteinen sivutähti jalan päällä
-  3. valas
-  4. älytön kiepsahdus..
-  5. lentsikka käsien päällä
-  6. toista
-
-* Roottori: lentsikka jalat ristissä vasen edessä - oikea jalka irti, lentäjä pyörähtää oikea jalka samaan paikkaan, molemmat kädet irti kun lentäjä käy väärinpäin lentsikassa - kädet kiinni, vasen jalka irti ja vaihtaa asentoa – alusta
 
 ## Alamies seisten
 
 ### Lentsikka
 
-* Lentsikka hartialla
-
-* Ylälentsikka
-
-  - poistuminen: lasku maahan
-  - siirtyminen: sylissä. pudotus pienellä temmolla
+- [Lentsikka hartian päällä](seisten/lentsikka_hartialla.md)
+- [Lentsikka käsien päällä](seisten/lentsikka_kasilla.md)
 
 ### Selkälentsikka
 
-* Ylälentsikka selällään
-
-  * (Käänteinen?) lankku
-
-    - siirtyminen: olkaseisonta hartioilla (ks. https://youtu.be/H7sWdnofGMI)
-
-  * Ylälankku
-
-    - nousu edestä nostaen
+- [Selkälentsikka käsien päällä](seisten/selkalentsikka_kasilla.md)
+- [Käänteinen selkelentsikka käsien päällä](seisten/selkalentsikka_kasilla_kaanteinen.md)
 
 ### Seisonta
 
-* Seisonta hartioilla eli tolppa (eng. two high)
-
-  - nousu: selän takaa reiden kautta hartialle astellen
-  - nousu: edestä kädet ristissä reiden kautta astuen takakautta toiselle hartialle astuen
-  - nousu: edestä nosto
-  - nousu: takaa pohkeen päältä ponnistaen
-  - nousu: alamies istuen ja siitä ylös
-  - nousu: alamies kontallaan, lentäjä astuu selän päälle, alamies polvi-istuntaan ja lentäjä tolppa-asentoon, alamies nousee ylös
-  - variaatio: lentäjä yhdellä jalalla
-  - variaatio: alamies juoksee ja/tai hyppii
-  - variaatio: alamies irrottaa kädet sivuille
-  - variaatio: molemmat lentäjän jalat samalla puolella, toinen jalka käsivarrella tai kämmenellä
-  - poistuminen: reiden kautta alas astuminen
-  - poistuminen: lasku etukautta (ks. https://youtu.be/VYbU4tbqwko)
-  - poistuminen: kuperkeikalla (alkaa voimakkaalla kaatuvalla etunojalla)
-  - siirtyminen: hartiaistunta
-  - siirtyminen: flatback-seisonta
-  - siirtyminen: käsien varassa istunta (eng. tuck sit) (ks. https://youtu.be/oqOOipqpmXk)
-  - siirtyminen: käänteinen lankku (ks. https://youtu.be/VYbU4tbqwko)
-
-* Käsien päällä seisonta
-
-  - nousu: alamiehen käsi omalla reidellä, lentäjä astuu siihen, toinen askel kädelle rinnalla, kääntyminen ja nosto
-  - nousu: alamies kyykyssä leveästi, kämmenet päällekkäin jalkojen välissä, lentäjä astuu ja ponnistaa yksi jalka alamiehen käsien päällä ja siitä temmolla ylös ja puolipyörähdys, alamies nappaa toisella kädellä toisen jalan
-  - variaatio: alamiehen kädet rinnalla
-  - variaatio: alamiehen kädet suorana
-
-* Lippu
-
-  - nousu: kädet kiinni
-  - nousu: ilman käsiä (huom! alamies tarpeeksi alas)
-  - variaatio: yhdellä alamiehen jalalla (kun jalat harallaan)
-  - siirtyminen: tolppa (ks. https://youtu.be/a4MKJCETe1w)
-  - siirtyminen: käsilläseisonta polvien päällä (ks. https://youtu.be/nXucAYNXvMw)
-  - siirtyminen: sivutähti (ks. https://youtu.be/2rHxqdwVWkw)
-
-  * Reisiseisonta kasvotusten (eng. thigh stand facing in)
-
-    - variaatio: molemmat kädet yhdessä
-    - variaatio: yksi käsi kiinni (ristikkäinen tai saman puolen)
-    - nousu: astuen
-    - nousu: hypäten käsivarret yhdessä
-
-  * Reisiseisonta perätysten (eng. thigh stand facing out)
-
-    - kuvaus: alamiehen kädet lentäjän lantiolla/reisillä (vastapaino)
-    - nousu: astuen
-    - nousu: vauhdilla hypäten (käännös hypätessä)
-    - siirtyminen: hartiaistunta
-    - siirtyminen: tolppa (ks. https://youtu.be/4ZdH5tkE83w)
-    - siirtyminen: käsilläseisonta polvien päällä (ks. https://youtu.be/n9A256MgJtI)
-
-* Vaaka/arabeski polvella (eng. arabesk on knees)
-
-  - kuvaus: alamies jalat harallaan ja ottaa vastapainoksi lentäjän reidestä kiinni. lentäjän tukijalka on alamiehen puoleinen jalka.
-  - nousu: astu sivusta toinen jalka toiselle reidelle ja sitten toinen toiselle reidelle
-  - siirtyminen: haaraistunta hartialla (ks. https://youtu.be/GbkDUnDSO7s)
+- [Seisonta hartioiden päällä (tolppa)](seisten/seisonta_hartioilla.md)
+- [Seisonta käsien päällä](seisten/seisonta_kasilla.md)
+- [Seisonta reisien päällä](seisten/seisonta_reisilla.md)
+- [Käänteinen seisonta reisien päällä](seisten/seisonta_reisilla_kaanteinen.md)
+- [Arabeski reiden päällä](seisten/arabeski_reidella.md)
 
 ### Käsilläseisonta
 
-- [Käsilläseisonta reisien päällä](kasillaseisonta_reisilla.md)
+- [Käsilläseisonta reisien päällä](seisten/kasillaseisonta_reisilla.md)
+
+### Käsilläistunta
+
+- [Käsilläistunta käsien päällä](seisten/kasillaistunta_kasilla.md)
 
 ### Kyljellään
 
-* Sivutähti
-
-  - kuvaus: lentäjä kyljellään alamiehen yllä, lentäjä alamiehen yhden käden varassa, tuki lantiossa, lentäjän toinen käsi ehkä alamiehen tukikäden hartialla
+- [Sivutähti käden päällä](seisten/sivutahti_kadella.md)
 
 ### Olkaseisonta
 
-* Olkaseisonta hartioilla (eng. shoulder to shoulder)
-
-  - nousu: temmolla edestä nostaen ja kipaten yli taakse (ks. https://youtu.be/H7sWdnofGMI)
-
-* Ylösalaisin hartioiden varassa alamiehen reisillä
+- [Olkaseisonta reisien päällä](seisten/olkaseisonta_reisilla.md)
+- [Olkaseisonta hartioiden päällä](seisten/olkaseisonta_hartioilla.md)
 
 ### Istunta
 
-* Istunta hartioilla
-
-  - nousu: alamiehen reiden kautta astuen
-  - nousu: edestä hypäten ja nostaen (kädet lantion vieressä)
-  - nousu: alamies kyykyssä, kämmenet päällekkäin, lentäjä astuu yhdellä jalalla siihen ja temmolla nosto ja puolipyörähdys hartioille istumaan
-  - poistuminen: käsilläseisonnan kautta (alamies pitää tukevasti lentäjän suorista vaakatasossa olevista jaloista kiinni)
-  - poistuminen: kuperkeikalla ???
-  - siirtyminen: tolppa
-  - siirtyminen: reisiseisonta
-
-* Istunta yhdellä hartialla
-
-  - nousu: alamies kyykyssä, lentäjä hyppää sivusta, käsillä tukea päästä ja olkapäästä
-  - nousu: alamies kyykyssä, alamiehen toisen puolen käsi ja lentäjän alamiehen rintaman puoleinen käsi yhdessä ja reiden kautta astuen
-  - siirtyminen: syliin
-  - poistuminen: vartalo niskan takaa, pää saman puolen kainaloon ja sieltä kiepsahduksella pois, alamies tukee käsillä
-  - poistuminen: laskeutuminen syliin ja jalka ojennettuna kauniisti maahan
+- [Istunta hartioiden päällä](seisten/istunta_hartioilla.md)
+- [Istunta hartian päällä](seisten/istunta_hartialla.md)
 
 ### Kainaloriipunta
 
-* Krusifiksi kasvot samaan suuntaan, nousu reisien päältä takaa, pois hylkeen kautta
-
-* Krusifiksi
-
-  - nousu: jalan kautta käsillä työntäen ylös
-  - poistuminen: istumaan niskan päälle ja liukumäkeä alas
-  - poistuminen: siirto toiselle hartialle ja basen käsien avulla pyörähdys alas
-
-* Kainaloroikutus (eng. straddle drop)
-
-  - kuvaus: krusifiksi toisinpäin, lentäjä omista jaloista kiinni haarat levällään
+- [Kainaloriipunta (krusifiksi)](seisten/krusifiksi.md)
+- [Käänteinen kainaloriipunta (käänteinen krusifiksi)](seisten/krusifiksi_kaanteinen.md)
 
 ### Muut
 
@@ -340,12 +194,6 @@
 poista: Perhoshyppy/nosto pään yläpuolella
 
 ## Treenattavaa
-
-
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RpN6NfBFlls?start=4&end=7" frameborder="0" allowfullscreen></iframe>
 
 * lentsikka -> käänteinen sivutähti jalan päällä -> valas
 
