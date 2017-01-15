@@ -1,4 +1,4 @@
-# Selkäalalentsikka (eng. back bird)
+# Selkälentsikka jalkojen päällä
 
 ## Variaatiot
 

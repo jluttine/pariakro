@@ -23,13 +23,13 @@
 
 - alalentsikka
 - säärien päällä seisonta
-- käsien päällä seisonta. temmolla. lentäjän jalat ristissä (ks. https://youtu.be/xXOvxRUId4Y)
+- käsien päällä seisonta. temmolla. lentäjän jalat ristissä
 
-<iframe src="https://www.youtube.com/embed/xXOvxRUId4Y?start=2&end=10" frameborder="0" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/xXOvxRUId4Y?start=2&end=10" frameborder="0" allowfullscreen></iframe>
 
 - valas
-- Vishnun sohva (ks. https://youtu.be/1CoxnHQ9k1U)
+- Vishnun sohva
 
-<iframe src="https://www.youtube.com/embed/1CoxnHQ9k1U?start=6&end=13" frameborder="0" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/1CoxnHQ9k1U?start=6&end=13" frameborder="0" allowfullscreen></iframe>
 
 - käänteinen seisonta käsien päällä

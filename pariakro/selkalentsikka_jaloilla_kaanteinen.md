@@ -1,4 +1,4 @@
-# Käänteinen selkälentsikka (eng. reverse back bird)
+# Käänteinen selkälentsikka jalkojen päällä
 
 ## Variaatiot
 

@@ -19,8 +19,8 @@
 
 - väärinpäin valtaistuin
 - laatikko
-- valtaistuin. lentäjän jalat ristissä (ks. https://youtu.be/xXOvxRUId4Y)
+- valtaistuin. lentäjän jalat ristissä
 
-<iframe src="https://www.youtube.com/embed/xXOvxRUId4Y?start=9&end=14" frameborder="0" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/xXOvxRUId4Y?start=9&end=14" frameborder="0" allowfullscreen></iframe>
 
 - olkaseisonta jalkojen päällä eli tähti
