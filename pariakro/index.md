@@ -4,101 +4,101 @@
 
 ### Lentsikka
 
-- [Lentsikka jalkojen päällä](lentsikka_jaloilla.md)
+- [Lentsikka jalkojen päällä](alamies_selallaan/lentsikka_jaloilla.md)
 
-- [Lentsikka käsien päällä](lentsikka_kasilla.md)
+- [Lentsikka käsien päällä](alamies_selallaan/lentsikka_kasilla.md)
 
-- [Roikkuva lentsikka](lentsikka_jaloilla_roikkuva.md)
+- [Roikkuva lentsikka](alamies_selallaan/lentsikka_jaloilla_roikkuva.md)
 
 ### Selkälentsikka
 
-- [Selkälentsikka jalkojen päällä](selkalentsikka_jaloilla.md)
+- [Selkälentsikka jalkojen päällä](alamies_selallaan/selkalentsikka_jaloilla.md)
 
-- [Käänteinen selkälentsikka jalkojen päällä](selkalentsikka_jaloilla_kaanteinen.md)
+- [Käänteinen selkälentsikka jalkojen päällä](alamies_selallaan/selkalentsikka_jaloilla_kaanteinen.md)
 
-- [Roikkuva selkälentsikka](selkalentsikka_kasilla_kaanteinen.md)
+- [Roikkuva selkälentsikka](alamies_selallaan/selkalentsikka_kasilla_kaanteinen.md)
 
-- [Selkälentsikka käsien päällä](selkalentsikka_kasilla.md)
+- [Selkälentsikka käsien päällä](alamies_selallaan/selkalentsikka_kasilla.md)
 
-- [Käänteinen selkälentsikka käsien päällä](selkalentsikka_kasilla_kaanteinen.md)
+- [Käänteinen selkälentsikka käsien päällä](alamies_selallaan/selkalentsikka_kasilla_kaanteinen.md)
 
 ### Seisonta
 
-- [Laatikko](laatikko.md)
+- [Laatikko](alamies_selallaan/laatikko.md)
 
-- [Käsien päällä seisonta](seisonta_kasilla.md)
+- [Käsien päällä seisonta](alamies_selallaan/seisonta_kasilla.md)
 
-- [Käänteinen käsien päällä seisonta](seisonta_kasilla_kaanteinen.md)
+- [Käänteinen käsien päällä seisonta](alamies_selallaan/seisonta_kasilla_kaanteinen.md)
 
-- [Seisonta säärien päällä](seisonta_saarilla.md)
+- [Seisonta säärien päällä](alamies_selallaan/seisonta_saarilla.md)
 
-- [Seisonta jalkojen päällä](seisonta_jaloilla.md)
+- [Seisonta jalkojen päällä](alamies_selallaan/seisonta_jaloilla.md)
 
-- [Käänteinen seisonta jalkojen päällä](seisonta_jaloilla_kaanteinen.md)
+- [Käänteinen seisonta jalkojen päällä](alamies_selallaan/seisonta_jaloilla_kaanteinen.md)
 
 ### Olkaseisonta
 
-- [Olkaseisonta käsien päällä](olkaseisonta_käsillä.md)
+- [Olkaseisonta käsien päällä](alamies_selallaan/olkaseisonta_käsillä.md)
 
-- [Olkaseisonta jalkojen päällä](olkaseisonta_jaloilla.md)
+- [Olkaseisonta jalkojen päällä](alamies_selallaan/olkaseisonta_jaloilla.md)
 
-- [Käänteinen olkaseisonta jalkojen päällä](olkaseisonta_jaloilla_kaanteinen.md)
+- [Käänteinen olkaseisonta jalkojen päällä](alamies_selallaan/olkaseisonta_jaloilla_kaanteinen.md)
 
 ### Kyljellään
 
-- [Vishnun sohva](vishnun_sohva.md)
+- [Vishnun sohva](alamies_selallaan/vishnun_sohva.md)
 
-- [Käänteinen Vishnun sohva](vishnun_sohva_kaanteinen.md)
+- [Käänteinen Vishnun sohva](alamies_selallaan/vishnun_sohva_kaanteinen.md)
 
-- [Käänteinen sivutähti](sivutahti_kaanteinen.md)
+- [Käänteinen sivutähti](alamies_selallaan/sivutahti_kaanteinen.md)
 
 ### Istunta
 
-- [Valtaistuin](valtaistuin.md)
+- [Valtaistuin](alamies_selallaan/valtaistuin.md)
 
-- [Käänteinen valtaistuin](valtaistuin_kaanteinen.md)
+- [Käänteinen valtaistuin](alamies_selallaan/valtaistuin_kaanteinen.md)
 
 ### Polviseisonta
 
-- [Polviseisonta käsien päällä](polviseisonta_kasilla.md)
+- [Polviseisonta käsien päällä](alamies_selallaan/polviseisonta_kasilla.md)
 
-- [Käänteinen polviseisonta käsien päällä](polviseisonta_kasilla_kaanteinen.md)
+- [Käänteinen polviseisonta käsien päällä](alamies_selallaan/polviseisonta_kasilla_kaanteinen.md)
 
-- [Polviseisonta jalkojen päällä](polviseisonta_jaloilla.md)
+- [Polviseisonta jalkojen päällä](alamies_selallaan/polviseisonta_jaloilla.md)
 
-- [Käänteinen polviseisonta jalkojen päällä](polviseisonta_jaloilla_kaanteinen.md)
+- [Käänteinen polviseisonta jalkojen päällä](alamies_selallaan/polviseisonta_jaloilla_kaanteinen.md)
 
 ### Käsilläseisonta
 
-- [Käsilläseisonta käsien päällä](kasillaseisonta_kasilla.md)
+- [Käsilläseisonta käsien päällä](alamies_selallaan/kasillaseisonta_kasilla.md)
 
-- [Käänteinen käsilläseisonta käsien päällä](kasillaseisonta_kasilla_kaanteinen.md)
+- [Käänteinen käsilläseisonta käsien päällä](alamies_selallaan/kasillaseisonta_kasilla_kaanteinen.md)
 
 ### Käsilläistunta
 
-- [Käsilläistunta käsien päällä](kasillaistunta_kasilla.md)
+- [Käsilläistunta käsien päällä](alamies_selallaan/kasillaistunta_kasilla.md)
 
-- [Käänteinen käsilläistunta käsien päällä](kasillaistunta_kasilla.md)
+- [Käänteinen käsilläistunta käsien päällä](alamies_selallaan/kasillaistunta_kasilla.md)
 
-- [Käsilläistunta jalkojen päällä](kasillaistunta_kasilla.md)
+- [Käsilläistunta jalkojen päällä](alamies_selallaan/kasillaistunta_kasilla.md)
 
-- [Käänteinen käsilläistunta jalkojen päällä](kasillaistunta_kasilla.md)
+- [Käänteinen käsilläistunta jalkojen päällä](alamies_selallaan/kasillaistunta_kasilla.md)
 
 ### Lantioriipunta
 
-- [Taittunut lehti](taittunut_lehti.md)
+- [Taittunut lehti](alamies_selallaan/taittunut_lehti.md)
 
-- [Lepakko](lepakko.md)
+- [Lepakko](alamies_selallaan/lepakko.md)
 
 ### Muut
 
-- [Valas](valas.md)
+- [Valas](alamies_selallaan/valas.md)
 
 ### Liikkeet
 
 * Kärrynpyörä alamiehen jalkojen varassa
 
-* Kiinalainen valssi
+* (en valssi
 
   - kuvaus: käsien päällä seisonnassa alamies pyörähtää vatsan kautta ympäri (ks. https://youtu.be/aKj-vG_KRFk)
 
