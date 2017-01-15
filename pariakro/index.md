@@ -2,110 +2,39 @@
 
 ## Alamies selinmakuulla
 
-[Alalentsikka jalkojen päällä](alalentsikka.md)
+[Alalentsikka](alalentsikka.md)
 
-[Alalentsikka käsien päällä](alalentsikka_kasilla.md)
+[Alalentsikka käsillä](alalentsikka_kasilla.md)
 
-### Roikkuva lentsikka (eng. hanging bird)
+[Roikkuva alalentsikka](alalentsikka_roikkuva.md)
 
-Alalentsikka mutta lentäjä roikkuu alamiehen jalkojen välissä pitäen käsillä kiinni alamiehen jaloista
+[Selkäalalentsikka](selkaalalentsikka.md)
 
-#### Siirtymiset
+[Käänteinen selkäalalentsikka](selkaalalentsikka_kaanteinen.md)
 
-- [ ] olkaseisonta käsien päällä eli kynttilä
+[Selkälankku](selkalankku.md)
 
-  <iframe src="https://www.youtube.com/embed/03xAOMgTRhU?start=20&end=30" frameborder="0" allowfullscreen></iframe>
+[Käänteinen selkälankku](selkalankku_kaanteinen.md)
 
-### Selkäalalentsikka (eng. back bird)
+[Roikkuva selkälankku](selkalankku_kasilla_kaanteinen.md)
 
-#### Variaatiot
+[Selkälankku käsillä](selkalankku_kasilla.md)
 
-- [x] lentäjä ottaa käsillä kiinni omista nilkoistaan (eng. wheel)
+[Käänteinen selkälankku käsillä](selkalankku_kasilla_kaanteinen.md)
 
-#### Poistumiset
+[Taittunut lehti](taittunut_lehti.md)
 
-- [x] käsilläseisonnan kautta
+[Lepakko](lepakko.md)
 
-### Käänteinen selkälentsikka (eng. reverse back bird)
+[Valas](valas.md)
 
-#### Variaatiot
+[Käänteinen sivutähti](sivutahti_kaanteinen.md)
 
--  lentäjä ottaa käsillä kiinni omista nilkoistaan (eng. reverse wheel)
+[Käsien päällä seisonta](seisonta_kasilla.md)
 
-### Selkälankku jalkojen päällä (eng. back plank on feet)
+[Käänteinen käsien päällä seisonta](seisonta_kasilla_kaanteinen.md)
 
-### Käänteinen selkälankku jalkojen päällä (eng. reverse back plank on feet)
-
-### Selkälankku käsien päällä (eng. back plank on hands)
-
-  - siirtyminen: roikkuva selkälankku
-
-### Käänteinen selkälankku käsien päällä (eng. back plank on hands)
-
-### Roikkuva selkälankku
-
-  - kuvaus: lentäjä selkälankussa roikkuen käsillä alamiehen jaloista alamiehen jalkojen välissä
-
-### Taittunut lehti
-
-  - kuvaus: alalentsikasta lentäjä pudottaa ylävartalon roikkumaan
-  - siirtyminen: alalentsikka
-  - siirtyminen: lepakko (ks. [video](https://youtu.be/L7wvnSGOvbY) tai [video](https://youtu.be/kxGHNdPpZeU))
-
-### Lepakko
-
-  - kuvaus: lentäjä roikkuu pää alaspäin lantio/reidet alamiehen suorissa jaloissa naama kohti alamiehen päätä (vrt. taittunut lehti eri päin)
-  - variaatio: kädet irti tai kiinni
-  - siirtyminen: alalentsikka (ks. https://www.youtube.com/watch?v=UezcO9v9dVA)
-  - siirtyminen: olkaseisonta jaloilla eli tähti (ks. https://youtu.be/CTOd5JfdsdM)
-  - siirtyminen: sihteeri eli käänteinen valtaistuin (ks. https://youtu.be/lP36SXJL-uM)
-  - siirtyminen: sohva
-
-### Valas (eng. whale)
-
-![Valas](https://i.ytimg.com/vi/DSs9qk_oI7g/hqdefault.jpg)
-
-  - kuvaus: lentäjä selällään suorahkona, jalat alamiehen käsissä ja alamiehen jalat lentäjän lapojen alla
-  - siirtyminen: valtaistuin
-
-### Käänteinen sivutähti
-
-  - kuvaus: alamiehen jalka kannattellee kyljellään olevaa lentäjää lantiosta, lentäjän rintamasuunta pois alamiehestä, lentäjän alempi käsi tukee tukijalasta
-  - siirtyminen: valas (ks. https://youtu.be/lM49MfstO1Y)
-
-* Käsien päällä seisonta
-
-  - helpotus: alamiehen jalat pystyssä lentäjälle tueksi (~laatikko)
-  - variaatio: yhden jalan seisonta kahden käden päällä
-  - nousu: laatikon kautta
-  - nousu: käsi kerrallaan suoraksi "porrasaskeltaen"
-  - nousu: hyppäämällä
-  - poistuminen: eteenpäin nojaaminen / "kaatuminen"
-  - siirtyminen: väärinpäin valtaistuin
-  - siirtyminen: laatikko
-  - siirtyminen: valtaistuin. lentäjän jalat ristissä (ks. https://youtu.be/xXOvxRUId4Y)
-  - siirtyminen: olkaseisonta jalkojen päällä eli tähti
-
-* Käänteinen seisonta käsien päällä
-
-* Valtaistuin (eng. throne)
-
-  - variaatio: lentäjän jalat alamiehen käsissä
-  - variaatio: lentäjän jalat alamiehen säärillä
-  - variaatio: lentäjän jalat alamiehen jalkojen ympäri
-  - variaatio: lentäjän jalat vapaina ja suorina
-  - variaatio: lentäjä hajareisin (eng. straddle throne)
-  - nousu: käsilläseisonnan kautta
-  - nousu: haarat auki pompahtamalla
-  - nousu: haarat kiinni pompahtamalla
-  - nousu: hyppäämällä juoksusta
-  - poistuminen: käsilläseisonnan kautta (base pitää jaloista tiukasti kiinni)
-  - siirtyminen: alalentsikka
-  - siirtyminen: säärien päällä seisonta
-  - siirtyminen: käsien päällä seisonta. temmolla. lentäjän jalat ristissä (ks. https://youtu.be/xXOvxRUId4Y)
-  - siirtyminen: valas
-  - siirtyminen: Vishnun sohva (ks. https://youtu.be/1CoxnHQ9k1U)
-  - siirtyminen: käänteinen seisonta käsien päällä
+[Valtaistuin](valtaistuin.md)
 
 * Sihteeri / käänteinen valtaistuin (eng. secretary / reverse throne)
 
@@ -164,6 +93,9 @@ Alalentsikka mutta lentäjä roikkuu alamiehen jalkojen välissä pitäen käsil
   - nousu: punnertamalla alamiehen pääpuolelta (ks. https://youtu.be/QlrGNv73IcA)
   - nousu: ponnistamalla sivulta (ks. https://youtu.be/jNthfX5IVlQ)
   - nousu: puolikkaan lepakon kautta (ks. https://youtu.be/CTOd5JfdsdM)
+
+  <iframe src="https://www.youtube.com/embed/CTOd5JfdsdM?start=0&end=17" frameborder="0" allowfullscreen></iframe>
+
   - siirtyminen: käsilläseisonta käsien päällä (ks. https://youtu.be/TtPtpaEBNpo)
 
 * Käänteinen olkaseisonta jaloilla eli käänteinen tähti (eng. reverse shoulderstand on feet or reverse star)
